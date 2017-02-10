@@ -1,0 +1,1 @@
+/usr/local/cuda/include/thrust/detail/config/device_system.h
